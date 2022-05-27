@@ -1,0 +1,16 @@
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/bin/Debug/net5.0/pratique_poo
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/bin/Debug/net5.0/pratique_poo.deps.json
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/bin/Debug/net5.0/pratique_poo.runtimeconfig.json
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/bin/Debug/net5.0/pratique_poo.runtimeconfig.dev.json
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/bin/Debug/net5.0/pratique_poo.dll
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/bin/Debug/net5.0/ref/pratique_poo.dll
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/bin/Debug/net5.0/pratique_poo.pdb
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.AssemblyInfoInputs.cache
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.AssemblyInfo.cs
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.csproj.CoreCompileInputs.cache
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.dll
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/ref/pratique_poo.dll
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.pdb
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.genruntimeconfig.cache
+/home/dalmacychristopher/RiderProjects/pratique_poo/pratique_poo/obj/Debug/net5.0/pratique_poo.csproj.AssemblyReference.cache
